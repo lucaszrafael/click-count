@@ -1,0 +1,13 @@
+.bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  width: auto;
+  padding: 10px 0;
+  background-color: lightgray;
+}
+
+.button {
+  margin: 100px;
+}
